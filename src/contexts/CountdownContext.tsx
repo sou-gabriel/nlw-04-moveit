@@ -6,7 +6,7 @@ import {
   useEffect,
 } from 'react'
 
-import { ChallengesContext } from './ChallengesContent'
+import { ChallengesContext } from './ChallengesContext'
 
 interface CountdownContextData {
   minutes: number
